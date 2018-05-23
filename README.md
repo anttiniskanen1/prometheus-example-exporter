@@ -3,6 +3,7 @@ Prometheus Example Exporter
 
 Based on https://github.com/braedon/prometheus-es-exporter
 
+Function
 ====
 This Prometheus exporter "collects" predefined example metrics.
 
